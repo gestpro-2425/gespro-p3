@@ -21,3 +21,22 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+
+Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2024/25. Universidad de Burgos.
+
+Incluid debajo el nombre de los miembros del grupo: Alejandro García Da Silva e Ismael Jiménez Maqués
+
+Para completar la práctica 3, se seguirán los siguientes pasos para realizar toda la secuencia de acciones desde que nos posicionamos en un nuevo commit del 
+repositorio Go Bees hasta que pasa a estar visible en nuestra rama master local.
+
+Estando en el repositorio de Go Bees en Git Kraken, nos posicionamos en el commit para subir los cambios.
+
+
+
+
+
+
+
+
+
